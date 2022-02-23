@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **JavaScript, Java, Python**
 
 - 📫 How to reach me **dinareli.lima@gmail.com**
-<img align="right" alt="jpg" width="250px" src="https://i.pinimg.com/originals/c3/40/74/c340742bcb711d2a6656121344bad73f.gif" />
+<img align="right" alt="jpg" width="250px" src="https://64.media.tumblr.com/5a964c38fd6d9e58d2d6579ec410237e/tumblr_n5jzxlYODV1sp6e2vo1_r1_400.gifv"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/natalia dinareli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natalia dinareli" height="30" width="40" /></a>
