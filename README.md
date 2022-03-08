@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinareli</h1>
 <h3 align="center">I'm a dev student from Brazil</h3>
 
-- 🌱 I’m currently learning **JavaScript, Java, Python**
+- 🌱 I’m currently learning **JavaScript, Java**
 
 - 📫 How to reach me **dinareli.lima@gmail.com**
 <img align="right" alt="jpg" width="250px" src="https://64.media.tumblr.com/5a964c38fd6d9e58d2d6579ec410237e/tumblr_n5jzxlYODV1sp6e2vo1_r1_400.gifv"/>
